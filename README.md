@@ -11,3 +11,5 @@ https://p.eagate.573.jp/game/popn/popn29/event/sanrio/index.html
 2026年 8月20日 10:00～
 
 [e-pass残数の推移記録](20260820_sanrio_epass.csv)
+
+[分析記事(note)](https://note.com/popn_ynw/n/nd8f67a5669c8?sub_rt=share_pb)
